@@ -19,7 +19,7 @@ function About() {
           {/* Image */}
           <div className="w-full md:w-[45%] flex justify-center items-center">
             <img
-              src="/Anime-boy-dp68 1.png"
+              src="/Anime-boy.png"
               alt="About me"
               className="w-full md:h-full object-cover"
             />
@@ -39,7 +39,7 @@ function About() {
         {/* Bottom Text Box */}
         <div className="flex justify-start items-center">
           <h2 className="bg-white text-lg sm:text-xl font-stalinist text-black w-full pl-[20px] sm:pl-[50px] pt-[20px] pb-[20px] text-center md:text-left">
-            Want to know more >>
+            {'Want to know more'}
           </h2>
         </div>
 

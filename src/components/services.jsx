@@ -13,7 +13,7 @@ function Services() {
       {/* Services Grid */}
       <div className="flex flex-col justify-center items-center w-full mt-10 space-y-8 sm:space-y-0 sm:space-x-0">
         <div className="w-full sm:w-[40%] p-4 text-center sm:text-left">
-          <h2 className="font-bold text-xl font-stalinist">>> UI/UX Design</h2>
+          <h2 className="font-bold text-xl font-stalinist">{'>> UI/UX Design'}</h2>
           <p className="font-source text-red-500 mt-2">
             Website and Mobile App UI <br />
             Wireframing & Prototyping (Figma) <br />
@@ -23,7 +23,7 @@ function Services() {
         </div>
 
         <div className="w-full sm:w-[40%] p-4 text-center sm:text-left">
-          <h2 className="font-bold text-xl font-stalinist">>> Branding & Visual Identity</h2>
+          <h2 className="font-bold text-xl font-stalinist">{'>> Branding & Visual Identity'}</h2>
           <p className="font-source text-green-500 mt-2">
             Logo Design <br />
             Color Palette & Typography <br />
@@ -33,7 +33,7 @@ function Services() {
         </div>
 
         <div className="w-full sm:w-[40%] p-4 text-center sm:text-left">
-          <h2 className="font-bold text-xl font-stalinist">>> Frontend Development</h2>
+          <h2 className="font-bold text-xl font-stalinist">{'>> Frontend Development'}</h2>
           <p className="font-source text-blue-500 mt-2">
             Responsive Website Development <br />
             React-based Web Interfaces <br />
