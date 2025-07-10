@@ -1,0 +1,12 @@
+# node dependencies
+node_modules/
+
+# Vite build output
+dist/
+
+# GitHub Pages cache
+node_modules/.cache/gh-pages/
+
+# System files
+.DS_Store
+Thumbs.db
