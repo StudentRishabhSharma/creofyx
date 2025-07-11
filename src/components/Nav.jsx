@@ -9,7 +9,7 @@ function Nav() {
         transition={{ duration: 0.5, ease: "easeOut" }}
       >
         <img
-          src="/Instagram post - 3.png"
+          src="/logo1.png"
           alt="Logo"
           className="h-[40px] md:h-[60px] w-[200px] md:w-[360px] p-2 pl-6 md:pl-20 rounded-tr-full rounded-br-full bg-white"
         />

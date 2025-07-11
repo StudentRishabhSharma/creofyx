@@ -1,7 +1,8 @@
 {
-  "name": "creofyx-fixed-tailwind",
+  "name": "creofyx",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://StudentRishabhSharma.github.io/creofyx",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
